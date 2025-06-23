@@ -1,0 +1,11 @@
+body{
+  padding :0px;
+  margin:0px;
+}
+.my-purple-toast {
+  background-color: #7e22ce; /* درجة موف */
+  color: white;
+}
+.footer .css-82ljsr-MuiInputBase-root-MuiOutlinedInput-root{
+  color:white !important;
+}

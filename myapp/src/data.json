@@ -1,0 +1,260 @@
+{
+  "products": [
+    {
+      "title": "Classic Leather Sofa",
+      "desc": "A luxurious leather sofa that adds elegance to any living room.",
+      "price": 2500,
+      "img": "https://cdn.pixabay.com/photo/2021/01/17/15/41/home-5925502_1280.jpg",
+      "category": "Living Room",
+      "numbers": 10
+    },
+    {
+      "title": "Modern Sectional Sofa",
+      "desc": "A spacious sectional sofa with a contemporary design.",
+      "price": 3200,
+      "img": "https://cdn.pixabay.com/photo/2024/09/17/11/19/real-estate-9053405_1280.jpg",
+      "category": "Living Room",
+      "numbers": 5
+    },
+    {
+      "title": "Wooden Coffee Table",
+      "desc": "A sturdy wooden coffee table with a rustic finish.",
+      "price": 800,
+      "img": "https://cdn.pixabay.com/photo/2012/07/25/13/48/luggage-52831_1280.jpg",
+      "category": "Living Room",
+      "numbers": 15
+    },
+    {
+      "title": "Recliner Armchair",
+      "desc": "A comfortable recliner armchair perfect for relaxation.",
+      "price": 1200,
+      "img": "https://cdn.pixabay.com/photo/2017/09/09/18/25/living-room-2732939_1280.jpg",
+      "category": "Living Room",
+      "numbers": 7
+    },
+    {
+      "title": "Queen Size Bed Frame",
+      "desc": "A stylish queen size bed frame made of solid wood.",
+      "price": 1800,
+      "img": "https://cdn.pixabay.com/photo/2015/08/29/13/26/bed-913051_1280.jpg",
+      "category": "Bedroom",
+      "numbers": 8
+    },
+    {
+      "title": "Nightstand with Drawer",
+      "desc": "A compact nightstand featuring a single drawer for storage.",
+      "price": 400,
+      "img": "https://cdn.pixabay.com/photo/2022/07/28/13/53/bedroom-7349893_1280.jpg",
+      "category": "Bedroom",
+      "numbers": 12
+    },
+    {
+      "title": "Wardrobe Closet",
+      "desc": "A spacious wardrobe closet with multiple compartments.",
+      "price": 2200,
+      "img": "https://cdn.pixabay.com/photo/2016/11/19/13/06/bed-1839183_1280.jpg",
+      "category": "Bedroom",
+      "numbers": 6
+    },
+    {
+      "title": "Dresser with Mirror",
+      "desc": "A modern dresser accompanied by a large mirror.",
+      "price": 1500,
+      "img": "https://cdn.pixabay.com/photo/2018/01/05/08/39/furniture-3062400_1280.jpg",
+      "category": "Bedroom",
+      "numbers": 9
+    },
+    {
+      "title": "Dining Table Set",
+      "desc": "A 6-seater dining table set made from premium oak wood.",
+      "price": 3000,
+      "img": "https://cdn.pixabay.com/photo/2024/08/31/11/18/dining-room-9011268_1280.jpg",
+      "category": "Dining Room",
+      "numbers": 4
+    },
+    {
+      "title": "Upholstered Dining Chairs",
+      "desc": "Set of 4 upholstered dining chairs with cushioned seats.",
+      "price": 1200,
+      "img": "https://cdn.pixabay.com/photo/2016/06/23/19/36/dining-room-1476060_1280.jpg",
+      "category": "Dining Room",
+      "numbers": 10
+    },
+    {
+      "title": "Buffet Sideboard",
+      "desc": "A spacious buffet sideboard for additional dining storage.",
+      "price": 1800,
+      "img": "https://cdn.pixabay.com/photo/2021/09/20/19/00/dinning-table-6641707_1280.jpg",
+      "category": "Dining Room",
+      "numbers": 5
+    },
+    {
+      "title": "Glass Display Cabinet",
+      "desc": "A tall glass display cabinet to showcase your dinnerware.",
+      "price": 1600,
+      "img": "https://cdn.pixabay.com/photo/2018/01/26/08/15/dining-room-3108037_1280.jpg",
+      "category": "Dining Room",
+      "numbers": 3
+    },
+    {
+      "title": "Kids Bunk Bed",
+      "desc": "A fun and space-saving bunk bed for kids' rooms.",
+      "price": 2000,
+      "img": "https://cdn.pixabay.com/photo/2014/07/10/17/17/bedroom-389254_1280.jpg",
+      "category": "Kids Room",
+      "numbers": 6
+    },
+    {
+      "title": "Toy Storage Organizer",
+      "desc": "A colorful organizer to keep toys neatly stored.",
+      "price": 500,
+      "img": "https://cdn.pixabay.com/photo/2024/07/15/11/54/kids-room-8896520_1280.jpg",
+      "category": "Kids Room",
+      "numbers": 14
+    },
+    {
+      "title": "Study Desk for Kids",
+      "desc": "A compact study desk designed for children's use.",
+      "price": 700,
+      "img": "https://cdn.pixabay.com/photo/2018/05/02/09/01/children-3368013_1280.jpg",
+      "category": "Kids Room",
+      "numbers": 9
+    },
+    {
+      "title": "Kids Wardrobe",
+      "desc": "A small wardrobe suitable for children's clothing.",
+      "price": 1200,
+      "img": "https://cdn.pixabay.com/photo/2019/09/27/10/00/children-4508017_1280.jpg",
+      "category": "Kids Room",
+      "numbers": 5
+    },
+    {
+      "title": "Kitchen Island",
+      "desc": "A versatile kitchen island with storage and seating.",
+      "price": 2500,
+      "img": "https://media.istockphoto.com/id/1300873609/photo/modern-dining-room-interior.jpg?s=612x612&w=0&k=20&c=gzppURv0dkeyl5djurQgohwiJrPAG2H3xiw6O99k3l0=",
+      "category": "Kitchen",
+      "numbers": 4
+    },
+    {
+      "title": "Bar Stool Set",
+      "desc": "Set of 2 bar stools with adjustable height.",
+      "price": 900,
+      "img": "https://media.istockphoto.com/id/2147510422/photo/green-home-kitchen-interior-with-bar-counter-and-panoramic-window.jpg?s=612x612&w=0&k=20&c=A2ZBvjIakFwK4ZrNhQqmzF9CebSrBo_f-zjY6QsH-B4=",
+      "category": "Kitchen",
+      "numbers": 10
+    },
+    {
+      "title": "Kitchen Cabinet",
+      "desc": "A modern kitchen cabinet with ample storage space.",
+      "price": 1800,
+      "img": "https://media.istockphoto.com/id/2053961830/photo/luxury-modern-gray-kitchen.jpg?s=612x612&w=0&k=20&c=JVyV2xLN-xr52YCmIyrzEhrCp7tnyVx3myBbneELUv4=",
+      "category": "Kitchen",
+      "numbers": 7
+    },
+    {
+      "title": "Dining Nook Set",
+      "desc": "A cozy dining nook set perfect for small kitchens.",
+      "price": 2200,
+      "img": "https://media.istockphoto.com/id/2159965582/photo/private-residential-home-interiors-and-exteriors.jpg?s=612x612&w=0&k=20&c=XfMznCseA-C45T9qXOYQjwgYFJiP_hplOrKsMpQmYlA=",
+      "category": "Kitchen",
+      "numbers": 3
+    },
+    {
+      "title": "Bathroom Vanity Set",
+      "desc": "A sleek bathroom vanity set with sink and storage.",
+      "price": 2000,
+      "img": "https://cdn.pixabay.com/photo/2021/12/25/13/09/bathroom-6893066_1280.jpg",
+      "category": "Bathroom",
+      "numbers": 5
+    },
+    {
+      "title": "Over-the-Toilet Cabinet",
+      "desc": "A space-saving cabinet that fits over the toilet.",
+      "price": 600,
+      "img": "https://cdn.pixabay.com/photo/2016/04/15/11/50/hotel-1330854_1280.jpg",
+      "category": "Bathroom",
+      "numbers": 8
+    },
+    {
+      "title": "Bathroom Mirror with Lights",
+      "desc": "An illuminated bathroom mirror with LED lights.",
+      "price": 900,
+      "img": "https://cdn.pixabay.com/photo/2015/06/15/01/59/bathroom-809820_1280.jpg",
+      "category": "Bathroom",
+      "numbers": 6
+    },
+    {
+      "title": "Towel Storage Rack",
+      "desc": "A stylish rack for organizing bathroom towels.",
+      "price": 400,
+      "img": "https://cdn.pixabay.com/photo/2022/10/02/14/06/bath-7493560_1280.jpg",
+      "category": "Bathroom",
+      "numbers": 12
+    },
+    {
+      "title": "Outdoor Patio Set",
+      "desc": "A 4-piece outdoor patio set with cushions.",
+      "price": 3000,
+      "img": "https://cdn.pixabay.com/photo/2019/10/24/11/32/chairs-4574091_1280.jpg",
+      "category": "Garden",
+      "numbers": 4
+    },
+    {
+      "title": "Garden Bench",
+      "desc": "A wooden garden bench perfect for outdoor relaxation.",
+      "price": 1200,
+      "img": "https://cdn.pixabay.com/photo/2018/04/28/16/18/festival-3357588_1280.jpg",
+      "category": "Garden",
+      "numbers": 7
+    },
+    {
+      "title": "Hammock with Stand",
+      "desc": "A comfortable hammock complete with a sturdy stand.",
+      "price": 1500,
+      "img": "https://cdn.pixabay.com/photo/2022/06/25/13/27/chess-7283490_1280.jpg",
+      "category": "Garden",
+      "numbers": 5
+    },
+    {
+      "title": "Outdoor Dining Table",
+      "desc": "A weather-resistant dining table for garden use.",
+      "price": 2500,
+      "img": "https://cdn.pixabay.com/photo/2018/04/28/16/17/festival-3357587_1280.jpg",
+      "category": "Garden",
+      "numbers": 3
+    },
+    {
+      "title": "Executive Office Desk",
+      "desc": "A spacious executive desk with multiple drawers.",
+      "price": 2800,
+      "img": "https://media.istockphoto.com/id/1437872019/photo/top-view-of-light-chill-interior-with-armchairs-and-drawer-panoramic-window.jpg?s=1024x1024&w=is&k=20&c=S7I6z9fwxhKkg95xqRhLwVeAByUhS8AZgrTtNO8OAks=",
+      "category": "Office",
+      "numbers": 6
+    },
+    {
+      "title": "Ergonomic Office Chair",
+      "desc": "An ergonomic chair designed for maximum comfort.",
+      "price": 1300,
+      "img": "https://media.istockphoto.com/id/1437708442/photo/corner-view-on-bright-living-room-interior-with-armchairs-windows.jpg?s=1024x1024&w=is&k=20&c=hcXzqVEF4hfJn0IkxSUkcVLJr0XADriJ5b42-u2zLKw=",
+      "category": "Office",
+      "numbers": 10
+    },
+    {
+      "title": "Bookshelf Organizer",
+      "desc": "A tall bookshelf for organizing office materials.",
+      "price": 1000,
+      "img": "https://media.istockphoto.com/id/1211497908/photo/waiting-area-interior.jpg?s=1024x1024&w=is&k=20&c=Q-FTMMxZSujO130SjmoZdCAzZSRnC_w3Py3XfDZWgp8=",
+      "category": "Office",
+      "numbers": 8
+    },
+    {
+      "title": "Filing Cabinet",
+      "desc": "A metal filing cabinet with lockable drawers.",
+      "price": 900,
+      "img": "https://cdn.pixabay.com/photo/2015/04/20/06/46/office-730681_1280.jpg",
+      "category": "Office",
+      "numbers": 9
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+.css-idivhk-MuiSelect-select-MuiInputBase-input-MuiFilledInput-input{
+    padding-top: 4px!important;
+}/* في ملف CSS */
+
+  
+  @media (max-width: 900px) {
+    .img-hero {
+      object-fit: cover;
+      margin: auto;
+      width: 100%;
+      height: auto;
+    }
+  }
+  .Toastify__close-button {
+    color: black !important;
+  }
+  .css-ot336b-MuiInputBase-root-MuiOutlinedInput-root,.MuiOutlinedInput-input {
+    background-color: #f8f8f8 !important
+  }
+  body{
+    padding: 0px;margin: 0px;
+  }
+  @media (max-width: 600px) {
+    ::placeholder {
+      font-size: 13px;
+    }
+  }
+  .Toastify__close-button{
+    color: white !important;
+  }.css-82ljsr-MuiInputBase-root-MuiOutlinedInput-root:hover .MuiOutlinedInput-notchedOutline {
+    border-color: transparent!important;
+  }

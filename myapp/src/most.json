@@ -1,0 +1,74 @@
+{
+  "products": [
+    {
+      "title": "Dining Table Set",
+      "desc": "A 6-seater dining table set made from premium oak wood.",
+      "price": 3000,
+      "img": "https://cdn.pixabay.com/photo/2024/08/31/11/18/dining-room-9011268_1280.jpg",
+      "category": "Dining Room",
+      "numbers": 10,
+      "id": 1
+    },
+    {
+      "title": "Kids Room",
+      "desc": "A compact nightstand featuring a single drawer for storage.",
+      "price": 1200,
+      "img": "https://cdn.pixabay.com/photo/2019/09/27/10/00/children-4508017_1280.jpg",
+      "category": "Kids Wardrobe",
+      "numbers": 6,
+      "id": 2
+    },
+    {
+      "title": "Dining Nook Set",
+      "desc": "A compact nightstand featuring a single drawer for storage.",
+      "price": 400,
+      "img": "https://cdn.pixabay.com/photo/2022/07/28/13/53/bedroom-7349893_1280.jpg",
+      "category": "Bedroom",
+      "numbers": 3,
+      "id": 25
+    },
+    {
+      "title": "Queen Size Bed Frame",
+      "desc": "A stylish queen size bed frame made of solid wood.",
+
+      "price": 1800,
+      "img": "https://cdn.pixabay.com/photo/2015/08/29/13/26/bed-913051_1280.jpg",
+      "category": "Bedroom",
+      "numbers": 5,
+      "id": 15
+    },
+    {
+      "title": "Bathroom Mirror with Lights",
+      "desc": "A compact nightstand featuring a single drawer for storage.",
+
+      "price": 900,
+      "img": "https://cdn.pixabay.com/photo/2015/06/15/01/59/bathroom-809820_1280.jpg",
+      "category": "Bathroom",
+      "numbers": 8,
+      "id": 26
+    },
+    {
+      "title": "Filing Cabinet",
+      "desc": "A compact nightstand featuring a single drawer for storage.",
+
+      "price": 700,
+      "img": "https://cdn.pixabay.com/photo/2018/05/02/09/01/children-3368013_1280.jpg",
+      "category": "Kids Room",
+      "numbers": 9,
+      "id": 29
+    }
+  ],
+  "cat":
+    [
+      { "cat":  "Office" ,"img":"https://cdn.pixabay.com/photo/2015/06/15/01/59/bathroom-809820_1280.jpg"},
+      { "cat":  "Garden" ,"img":"https://cdn.pixabay.com/photo/2018/04/28/16/17/festival-3357587_1280.jpg" },
+      { "cat":"Bathroom","img":"https://cdn.pixabay.com/photo/2022/10/02/14/06/bath-7493560_1280.jpg" },
+      { "cat":"Kitchen","img":"https://media.istockphoto.com/id/1300873609/photo/modern-dining-room-interior.jpg?s=612x612&w=0&k=20&c=gzppURv0dkeyl5djurQgohwiJrPAG2H3xiw6O99k3l0=" },
+      { "cat":  "Kids Room","img":"https://cdn.pixabay.com/photo/2019/09/27/10/00/children-4508017_1280.jpg" },
+      { "cat":  "Dining Room","img":"https://cdn.pixabay.com/photo/2024/08/31/11/18/dining-room-9011268_1280.jpg"},
+      { "cat": "Bedroom","img":"https://cdn.pixabay.com/photo/2015/08/29/13/26/bed-913051_1280.jpg"},
+      { "cat": "Living Room" ,"img":"https://cdn.pixabay.com/photo/2017/09/09/18/25/living-room-2732939_1280.jpg"}
+    ]
+    
+  
+}
