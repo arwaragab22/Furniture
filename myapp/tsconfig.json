@@ -2,10 +2,9 @@
 {
   "extends": "./tsconfig.json",
   "compilerOptions": {
-    "outDir": "./dist/out-tsc",
+    
     "types": [],
-    "noUnusedLocals": false,
-    "noUnusedParameters": false
+    "jsx": "react-jsx"       // ✅ أهم سطر لإصلاح الخطأ
   },
   "files": [],
   "include": ["src/**/*.ts", "src/**/*.tsx"]
