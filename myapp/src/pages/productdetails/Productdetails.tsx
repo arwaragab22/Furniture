@@ -20,7 +20,8 @@ import { db } from "../../firebase/firebase";
 import type { producttype } from "../../type";
 import AddIcon from "@mui/icons-material/Add";
 import RemoveIcon from "@mui/icons-material/Remove";
-import ReactImageMagnify from "react-image-magnify";
+import './det.css';
+
 import FavoriteIcon from "@mui/icons-material/Favorite";
 import FavoriteBorderIcon from "@mui/icons-material/FavoriteBorder";
 
@@ -47,6 +48,7 @@ import { Addtocartbynum } from "../../store/cart/cartslice";
 import { Bounce, Slide, toast } from "react-toastify";
 import { Addtofav, subtofav } from "../../store/favorite/favslice";
 import { Usedialogcontext } from "../../components/contextdialog/Createcontexdialog";
+import InnerImageZoom from "react-inner-image-zoom";
 
 function Productdetails() {
   const [stateoftooste, setstateoftooste] = useState(false);
@@ -312,38 +314,12 @@ function Productdetails() {
               <FavoriteBorderIcon></FavoriteBorderIcon>
             </IconButton>
           )}
-          <ReactImageMagnify
-            {...{
-              smallImage: {
-                alt: "product image",
-                isFluidWidth: false,
-                width: 400,
-                height: 400,
-                src: product?.img,
-                style: {
-                  objectFit: "contain", // يحافظ على الأبعاد
-                  width: "100%",
-                  height: "100%",
-                },
-              },
-              largeImage: {
-                src: product?.img,
-                width: 1000,
-                height: 1000,
-              },
-              enlargedImageContainerStyle: {
-                zIndex: 9,
-                overflow: "hidden",
-              },
-              enlargedImageContainerDimensions: {
-                width: "200%", // تكبير مناسب
-                height: "100%",
-              },
-              isHintEnabled: !isMobile,
-              shouldUsePositiveSpaceLens: !isMobile,
-              enlargedImagePosition: isMobile ? "over" : "beside",
-              pressDuration: isMobile ? 100 : 0,
-            }}
+          <InnerImageZoom
+            src={product?.img}
+            zoomSrc={product?.img}
+            zoomType="hover"
+            zoomPreload={true}
+            zoomScale={2.5}
           />
         </Box>
 
