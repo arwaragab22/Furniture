@@ -1,11 +1,18 @@
-
 {
-  "extends": "./tsconfig.json",
   "compilerOptions": {
-    
-    "types": [],
-    "jsx": "react-jsx"       // ✅ أهم سطر لإصلاح الخطأ
+    "target": "es2017",
+    "lib": ["dom", "dom.iterable", "esnext"],
+    "jsx": "react-jsx", // أو "react" حسب نوع المشروع
+    "module": "esnext",
+    "moduleResolution": "node",
+    "resolveJsonModule": true,
+    "isolatedModules": true,
+    "esModuleInterop": true,
+    "skipLibCheck": true,
+    "forceConsistentCasingInFileNames": true,
+    "noEmit": true,
+    "strict": true
   },
-  "files": [],
-  "include": ["src/**/*.ts", "src/**/*.tsx"]
+  "include": ["src", "vite.config.ts"], // تأكد أن المسارات صحيحة
+  "exclude": ["node_modules"]
 }
